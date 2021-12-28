@@ -1,2 +1,1 @@
-# HomeworkForSEF1
-There are all my homeworks
+Here are all the homework assignments I have completed!
